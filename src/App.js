@@ -1,8 +1,15 @@
 import './App.css';
+import Headers from './Components/Header/Header';
+import Listsp from './Components/Listsp/Listsp';
+
 
 function App() {
   return (
-  <p>asdeeeeewa</p>
+  <section>
+      <Headers/>
+      <Listsp/>
+  </section>
+  
   );
 }
 
