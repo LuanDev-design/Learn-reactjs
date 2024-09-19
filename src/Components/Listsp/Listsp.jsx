@@ -8,7 +8,7 @@ export default function Listsp() {
             <div className="sp" key={i}>
                <h2> {sp.title}</h2>
                <p> {sp.time} </p>
-               <img src={sp.image} alt={sp.title} />
+             
                 
                 </div>
             
